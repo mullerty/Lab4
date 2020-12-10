@@ -1,0 +1,16 @@
+﻿  main.cpp
+C:\Users\Amr\source\repos\Lab4\Lab4\MyVector.h(30,2): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Amr\source\repos\Lab4\Lab4\MyVector.h(24): message : во время компиляции функции-члена класс шаблон "void Myvector<prog4::Item *>::resize(unsigned int)"
+C:\Users\Amr\source\repos\Lab4\Lab4\Prog4.h(226): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Myvector<prog4::Item *>::resize(unsigned int)"
+C:\Users\Amr\source\repos\Lab4\Lab4\Prog4.h(218): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Myvector<prog4::Item *>"
+C:\Users\Amr\source\repos\Lab4\Lab4\MyVector.h(35,2): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Amr\source\repos\Lab4\Lab4\MyVector.h(42,2): warning C4018: <: несоответствие типов со знаком и без знака
+  Prog4.cpp
+C:\Users\Amr\source\repos\Lab4\Lab4\MyVector.h(30,2): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Amr\source\repos\Lab4\Lab4\MyVector.h(24): message : во время компиляции функции-члена класс шаблон "void Myvector<prog4::Item *>::resize(unsigned int)"
+C:\Users\Amr\source\repos\Lab4\Lab4\Prog4.h(226): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Myvector<prog4::Item *>::resize(unsigned int)"
+C:\Users\Amr\source\repos\Lab4\Lab4\Prog4.h(218): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Myvector<prog4::Item *>"
+C:\Users\Amr\source\repos\Lab4\Lab4\MyVector.h(35,2): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Amr\source\repos\Lab4\Lab4\MyVector.h(42,2): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода...
+  Lab4.vcxproj -> C:\Users\Amr\source\repos\Lab4\Debug\Lab4.exe
